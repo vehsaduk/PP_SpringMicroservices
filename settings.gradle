@@ -1,3 +1,4 @@
 rootProject.name = 'PP_SpringMicroservices'
 
 includeBuild 'eureka-server'
+includeBuild 'eureka-client'
